@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Balloons-Order-Project/static/css/main.79f616f4.chunk.css",
+    "main.js": "/Balloons-Order-Project/static/js/main.81ef5225.chunk.js",
+    "main.js.map": "/Balloons-Order-Project/static/js/main.81ef5225.chunk.js.map",
+    "runtime-main.js": "/Balloons-Order-Project/static/js/runtime-main.c5d20148.js",
+    "runtime-main.js.map": "/Balloons-Order-Project/static/js/runtime-main.c5d20148.js.map",
+    "static/js/2.bbc0dc4c.chunk.js": "/Balloons-Order-Project/static/js/2.bbc0dc4c.chunk.js",
+    "static/js/2.bbc0dc4c.chunk.js.map": "/Balloons-Order-Project/static/js/2.bbc0dc4c.chunk.js.map",
+    "index.html": "/Balloons-Order-Project/index.html",
+    "static/css/main.79f616f4.chunk.css.map": "/Balloons-Order-Project/static/css/main.79f616f4.chunk.css.map",
+    "static/js/2.bbc0dc4c.chunk.js.LICENSE.txt": "/Balloons-Order-Project/static/js/2.bbc0dc4c.chunk.js.LICENSE.txt",
+    "static/media/Balloon.1930849d.svg": "/Balloons-Order-Project/static/media/Balloon.1930849d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5d20148.js",
+    "static/js/2.bbc0dc4c.chunk.js",
+    "static/css/main.79f616f4.chunk.css",
+    "static/js/main.81ef5225.chunk.js"
+  ]
+}

@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/Balloons-Order-Project/static/css/main.79f616f4.chunk.css",
-    "main.js": "/Balloons-Order-Project/static/js/main.81ef5225.chunk.js",
-    "main.js.map": "/Balloons-Order-Project/static/js/main.81ef5225.chunk.js.map",
+    "main.css": "/Balloons-Order-Project/static/css/main.a8e8abbd.chunk.css",
+    "main.js": "/Balloons-Order-Project/static/js/main.db5fc9ea.chunk.js",
+    "main.js.map": "/Balloons-Order-Project/static/js/main.db5fc9ea.chunk.js.map",
     "runtime-main.js": "/Balloons-Order-Project/static/js/runtime-main.c5d20148.js",
     "runtime-main.js.map": "/Balloons-Order-Project/static/js/runtime-main.c5d20148.js.map",
     "static/js/2.bbc0dc4c.chunk.js": "/Balloons-Order-Project/static/js/2.bbc0dc4c.chunk.js",
     "static/js/2.bbc0dc4c.chunk.js.map": "/Balloons-Order-Project/static/js/2.bbc0dc4c.chunk.js.map",
     "index.html": "/Balloons-Order-Project/index.html",
-    "static/css/main.79f616f4.chunk.css.map": "/Balloons-Order-Project/static/css/main.79f616f4.chunk.css.map",
+    "static/css/main.a8e8abbd.chunk.css.map": "/Balloons-Order-Project/static/css/main.a8e8abbd.chunk.css.map",
     "static/js/2.bbc0dc4c.chunk.js.LICENSE.txt": "/Balloons-Order-Project/static/js/2.bbc0dc4c.chunk.js.LICENSE.txt",
-    "static/media/Balloon.1930849d.svg": "/Balloons-Order-Project/static/media/Balloon.1930849d.svg"
+    "static/media/Balloon.1930849d.svg": "/Balloons-Order-Project/static/media/Balloon.1930849d.svg",
+    "static/media/Ellipse 3.4903df8a.svg": "/Balloons-Order-Project/static/media/Ellipse 3.4903df8a.svg",
+    "static/media/Ellipse 4.1e1199cf.svg": "/Balloons-Order-Project/static/media/Ellipse 4.1e1199cf.svg",
+    "static/media/Vector 3.2a3c06a6.svg": "/Balloons-Order-Project/static/media/Vector 3.2a3c06a6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c5d20148.js",
     "static/js/2.bbc0dc4c.chunk.js",
-    "static/css/main.79f616f4.chunk.css",
-    "static/js/main.81ef5225.chunk.js"
+    "static/css/main.a8e8abbd.chunk.css",
+    "static/js/main.db5fc9ea.chunk.js"
   ]
 }

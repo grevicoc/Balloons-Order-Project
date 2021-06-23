@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/Balloons-Order-Project/static/css/main.a8e8abbd.chunk.css",
-    "main.js": "/Balloons-Order-Project/static/js/main.db5fc9ea.chunk.js",
-    "main.js.map": "/Balloons-Order-Project/static/js/main.db5fc9ea.chunk.js.map",
+    "main.css": "/Balloons-Order-Project/static/css/main.855c0eb0.chunk.css",
+    "main.js": "/Balloons-Order-Project/static/js/main.ba14b36e.chunk.js",
+    "main.js.map": "/Balloons-Order-Project/static/js/main.ba14b36e.chunk.js.map",
     "runtime-main.js": "/Balloons-Order-Project/static/js/runtime-main.c5d20148.js",
     "runtime-main.js.map": "/Balloons-Order-Project/static/js/runtime-main.c5d20148.js.map",
     "static/js/2.bbc0dc4c.chunk.js": "/Balloons-Order-Project/static/js/2.bbc0dc4c.chunk.js",
     "static/js/2.bbc0dc4c.chunk.js.map": "/Balloons-Order-Project/static/js/2.bbc0dc4c.chunk.js.map",
     "index.html": "/Balloons-Order-Project/index.html",
-    "static/css/main.a8e8abbd.chunk.css.map": "/Balloons-Order-Project/static/css/main.a8e8abbd.chunk.css.map",
+    "static/css/main.855c0eb0.chunk.css.map": "/Balloons-Order-Project/static/css/main.855c0eb0.chunk.css.map",
     "static/js/2.bbc0dc4c.chunk.js.LICENSE.txt": "/Balloons-Order-Project/static/js/2.bbc0dc4c.chunk.js.LICENSE.txt",
     "static/media/Balloon.1930849d.svg": "/Balloons-Order-Project/static/media/Balloon.1930849d.svg",
     "static/media/Ellipse 3.4903df8a.svg": "/Balloons-Order-Project/static/media/Ellipse 3.4903df8a.svg",
     "static/media/Ellipse 4.1e1199cf.svg": "/Balloons-Order-Project/static/media/Ellipse 4.1e1199cf.svg",
-    "static/media/Vector 3.2a3c06a6.svg": "/Balloons-Order-Project/static/media/Vector 3.2a3c06a6.svg"
+    "static/media/Vector 3.2a3c06a6.svg": "/Balloons-Order-Project/static/media/Vector 3.2a3c06a6.svg",
+    "static/media/balon-bintang2.2de1f268.jpg": "/Balloons-Order-Project/static/media/balon-bintang2.2de1f268.jpg",
+    "static/media/balon-kaktus.254c5da8.jpg": "/Balloons-Order-Project/static/media/balon-kaktus.254c5da8.jpg",
+    "static/media/balon-langit.473bf3e1.jpg": "/Balloons-Order-Project/static/media/balon-langit.473bf3e1.jpg",
+    "static/media/balon-pesta.906e5c6f.jpg": "/Balloons-Order-Project/static/media/balon-pesta.906e5c6f.jpg",
+    "static/media/balon-rame.3c7caba1.jpg": "/Balloons-Order-Project/static/media/balon-rame.3c7caba1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c5d20148.js",
     "static/js/2.bbc0dc4c.chunk.js",
-    "static/css/main.a8e8abbd.chunk.css",
-    "static/js/main.db5fc9ea.chunk.js"
+    "static/css/main.855c0eb0.chunk.css",
+    "static/js/main.ba14b36e.chunk.js"
   ]
 }
